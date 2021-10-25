@@ -158,7 +158,7 @@ void main() {
         expect(
           widget.link,
           equals(
-            'https://firebase.google.com/codelabs/firebase-get-to-know-flutter#0',
+            'https://firebase.google.cn/codelabs/firebase-get-to-know-flutter#0',
           ),
         );
       });
@@ -192,7 +192,7 @@ void main() {
         expect(
           widget.link,
           equals(
-            'https://policies.google.com/terms',
+            'https://policies.google.cn/terms',
           ),
         );
       });
@@ -209,7 +209,7 @@ void main() {
         expect(
           widget.link,
           equals(
-            'https://policies.google.com/privacy',
+            'https://policies.google.cn/privacy',
           ),
         );
       });
