@@ -93,7 +93,7 @@ class FooterCodelabLink extends StatelessWidget {
 
     return FooterLink(
       link:
-          'https://firebase.google.com/codelabs/firebase-get-to-know-flutter#0',
+          'https://firebase.google.cn/codelabs/firebase-get-to-know-flutter#0',
       text: l10n.footerCodelabLinkText,
     );
   }
@@ -126,7 +126,7 @@ class FooterTermsOfServiceLink extends StatelessWidget {
     final l10n = context.l10n;
 
     return FooterLink(
-      link: 'https://policies.google.com/terms',
+      link: 'https://policies.google.cn/terms',
       text: l10n.footerTermsOfServiceLinkText,
     );
   }
@@ -142,7 +142,7 @@ class FooterPrivacyPolicyLink extends StatelessWidget {
     final l10n = context.l10n;
 
     return FooterLink(
-      link: 'https://policies.google.com/privacy',
+      link: 'https://policies.google.cn/privacy',
       text: l10n.footerPrivacyPolicyLinkText,
     );
   }

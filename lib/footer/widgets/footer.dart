@@ -56,8 +56,8 @@ class _ColumnFooter extends StatelessWidget {
           alignment: WrapAlignment.center,
           runSpacing: 16,
           children: const [
-            FooterGoogleIOLink(),
-            SizedBox(width: 30),
+            // FooterGoogleIOLink(),
+            // SizedBox(width: 30),
             FooterCodelabLink(),
             SizedBox(width: 30),
             FooterHowItsMadeLink(),
@@ -88,8 +88,8 @@ class _RowFooter extends StatelessWidget {
       children: const [
         FooterMadeWithLink(),
         Spacer(),
-        FooterGoogleIOLink(),
-        gap,
+        // FooterGoogleIOLink(),
+        // gap,
         FooterCodelabLink(),
         gap,
         FooterHowItsMadeLink(),

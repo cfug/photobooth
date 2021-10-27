@@ -21,7 +21,7 @@
     "sharePageRetakeButtonText": "重新拍一张",
     "sharePageShareButtonText": "分享",
     "sharePageDownloadButtonText": "下载",
-    "socialMediaShareLinkText": "刚通过 #Flutter照相亭 拍了一张自拍，快来围观一下吧！",
+    "socialMediaShareLinkText": "刚通过 #Flutter照相亭 拍了一张自拍，快来围观一下吧 ",
     "previewPageCameraNotAllowedText": "您拒绝授予使用设备相机的权限，为了使用这个应用，请予以授权。",
     "sharePageSocialMediaShareClarification1": "如果您选择在社交平台上分享您拍的照片，应用将会生成一个唯一的、30 天有效期网址的网址（过期自动删除），照片亦不会被分享或者存储。如果您希望提早删除这些照片，请联系 ",
     "sharePageSocialMediaShareClarification2": "flutter-photo-booth@google.com",

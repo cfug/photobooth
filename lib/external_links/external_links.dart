@@ -1,8 +1,8 @@
 import 'package:photobooth_ui/photobooth_ui.dart';
 
 const googleIOExternalLink = 'https://events.google.com/io/';
-const flutterDevExternalLink = 'https://flutter.dev';
-const firebaseExternalLink = 'https://firebase.google.com';
+const flutterDevExternalLink = 'https://flutter.cn';
+const firebaseExternalLink = 'https://firebase.google.cn';
 const photoboothEmail = 'mailto:flutter-photo-booth@google.com';
 const openSourceLink = 'https://github.com/flutter/photobooth';
 
