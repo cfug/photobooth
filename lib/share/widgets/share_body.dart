@@ -115,10 +115,10 @@ class DesktopButtonsLayout extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Flexible(child: DownloadButton(file: file)),
-        const SizedBox(width: 36),
-        Flexible(child: ShareButton(image: image)),
-        const SizedBox(width: 36),
-        const GoToGoogleIOButton(),
+        // const SizedBox(width: 36),
+        // Flexible(child: ShareButton(image: image)),
+        // const SizedBox(width: 36),
+        // const GoToGoogleIOButton(),
       ],
     );
   }
@@ -141,10 +141,10 @@ class MobileButtonsLayout extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         DownloadButton(file: file),
-        const SizedBox(height: 20),
-        ShareButton(image: image),
-        const SizedBox(height: 20),
-        const GoToGoogleIOButton(),
+        // const SizedBox(height: 20),
+        // ShareButton(image: image),
+        // const SizedBox(height: 20),
+        // const GoToGoogleIOButton(),
       ],
     );
   }
