@@ -141,10 +141,10 @@ class MobileButtonsLayout extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         DownloadButton(file: file),
-        const SizedBox(height: 20),
-        ShareButton(image: image),
-        const SizedBox(height: 20),
-        const GoToGoogleIOButton(),
+        // const SizedBox(height: 20),
+        // ShareButton(image: image),
+        // const SizedBox(height: 20),
+        // const GoToGoogleIOButton(),
       ],
     );
   }
