@@ -1,6 +1,6 @@
-name: io_photobooth
-description: I/O Photo Booth app.
-version: 1.0.0+1
+name: cn_photobooth
+description: Flutter Photo Booth app.
+version: 1.0.0+2
 publish_to: none
 
 environment:
