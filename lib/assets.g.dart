@@ -25,21 +25,21 @@ class Assets {
     size: Size(730, 588),
   );
   static const googleProps = {
-    Asset(
-      name: '01_google_v1',
-      path: 'assets/props/google/01_google_v1.png',
-      size: Size(847, 697),
-    ),
-    Asset(
-      name: '02_google_v1',
-      path: 'assets/props/google/02_google_v1.png',
-      size: Size(349, 682),
-    ),
-    Asset(
-      name: '03_google_V1',
-      path: 'assets/props/google/03_google_V1.png',
-      size: Size(640, 595),
-    ),
+    // Asset(
+    //   name: '01_google_v1',
+    //   path: 'assets/props/google/01_google_v1.png',
+    //   size: Size(847, 697),
+    // ),
+    // Asset(
+    //   name: '02_google_v1',
+    //   path: 'assets/props/google/02_google_v1.png',
+    //   size: Size(349, 682),
+    // ),
+    // Asset(
+    //   name: '03_google_V1',
+    //   path: 'assets/props/google/03_google_V1.png',
+    //   size: Size(640, 595),
+    // ),
     Asset(
       name: '04_google_v1',
       path: 'assets/props/google/04_google_v1.png',
@@ -135,11 +135,11 @@ class Assets {
       path: 'assets/props/google/22_google_v1.png',
       size: Size(901, 870),
     ),
-    Asset(
-      name: '23_google_v1',
-      path: 'assets/props/google/23_google_v1.png',
-      size: Size(541, 715),
-    ),
+    // Asset(
+    //   name: '23_google_v1',
+    //   path: 'assets/props/google/23_google_v1.png',
+    //   size: Size(541, 715),
+    // ),
     Asset(
       name: '24_google_v1',
       path: 'assets/props/google/24_google_v1.png',
@@ -165,11 +165,11 @@ class Assets {
       path: 'assets/props/google/28_google_v1.png',
       size: Size(403, 741),
     ),
-    Asset(
-      name: '29_google_v1',
-      path: 'assets/props/google/29_google_v1.png',
-      size: Size(570, 556),
-    ),
+    // Asset(
+    //   name: '29_google_v1',
+    //   path: 'assets/props/google/29_google_v1.png',
+    //   size: Size(570, 556),
+    // ),
     Asset(
       name: '30_google_v1',
       path: 'assets/props/google/30_google_v1.png',
@@ -322,11 +322,11 @@ class Assets {
       path: 'assets/props/hats/24_hats_v1.png',
       size: Size(812, 622),
     ),
-    Asset(
-      name: '25_hats_v1',
-      path: 'assets/props/hats/25_hats_v1.png',
-      size: Size(608, 316),
-    ),
+    // Asset(
+    //   name: '25_hats_v1',
+    //   path: 'assets/props/hats/25_hats_v1.png',
+    //   size: Size(608, 316),
+    // ),
     Asset(
       name: '26_hats_v1',
       path: 'assets/props/hats/26_hats_v1.png',
@@ -426,21 +426,21 @@ class Assets {
       path: 'assets/props/food/01_food_v1.png',
       size: Size(587, 678),
     ),
-    Asset(
-      name: '02_food_v1',
-      path: 'assets/props/food/02_food_v1.png',
-      size: Size(325, 591),
-    ),
+    // Asset(
+    //   name: '02_food_v1',
+    //   path: 'assets/props/food/02_food_v1.png',
+    //   size: Size(325, 591),
+    // ),
     Asset(
       name: '03_food_v1',
       path: 'assets/props/food/03_food_v1.png',
       size: Size(685, 686),
     ),
-    Asset(
-      name: '04_food_v1',
-      path: 'assets/props/food/04_food_v1.png',
-      size: Size(496, 422),
-    ),
+    // Asset(
+    //   name: '04_food_v1',
+    //   path: 'assets/props/food/04_food_v1.png',
+    //   size: Size(496, 422),
+    // ),
     Asset(
       name: '05_food_v1',
       path: 'assets/props/food/05_food_v1.png',
@@ -506,11 +506,11 @@ class Assets {
       path: 'assets/props/food/17_food_v1.png',
       size: Size(524, 649),
     ),
-    Asset(
-      name: '18_food_v1',
-      path: 'assets/props/food/18_food_v1.png',
-      size: Size(437, 503),
-    ),
+    // Asset(
+    //   name: '18_food_v1',
+    //   path: 'assets/props/food/18_food_v1.png',
+    //   size: Size(437, 503),
+    // ),
     Asset(
       name: '19_food_v1',
       path: 'assets/props/food/19_food_v1.png',
