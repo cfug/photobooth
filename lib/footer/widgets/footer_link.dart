@@ -110,7 +110,7 @@ class FooterHowItsMadeLink extends StatelessWidget {
 
     return FooterLink(
       link:
-          'https://medium.com/flutter/how-its-made-i-o-photo-booth-3b8355d35883',
+          'https://flutter.cn/posts/how-its-made-i-o-photo-booth',
       text: l10n.footerHowItsMadeLinkText,
     );
   }
